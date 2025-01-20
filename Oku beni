@@ -1,0 +1,10 @@
+Russian Roulette Shutdown
+📜 Açıklama
+Russian Roulette Shutdown, bir Rus ruleti oyununun dijital versiyonudur. Program çalıştırıldığında, rastgele bir olasılıkta bilgisayarınızı kapatır. Toplamda 6 olasılıktan 1'i seçilirse "kurşun" denk gelir ve sistem kapanır. Diğer durumlarda ise hayatta kalırsınız!
+
+⚠️ Dikkat: Bu uygulama ciddi bir işlem yapar. Gerçekten bilgisayarınızı kapatır. Denemeden önce açık olan tüm önemli dosyalarınızı kaydedin.
+
+🚀 Özellikler
+6 farklı olasılık ile "hayatta kalma" ya da "kapanma" durumu.
+Platforma özel kapatma komutları (Windows, Linux, desteklenir).
+Gerçek bir Rus ruleti deneyimi.
